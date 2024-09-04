@@ -9,8 +9,8 @@
 - Expertise in cryptography, consensus algorithms, and smart contracts.
 
 **Portfolio Projects:**
-- **Fleek** — 
 
-- **Kuzco** — 
+- Kuzco - https://github.com/Koned1/Kuzco
+- Fleek - https://github.com/Koned1/Fleek-network
 
 Follow, check out my repositories, and let’s build a decentralized future together!
