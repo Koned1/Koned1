@@ -1,16 +1,16 @@
-## Hi there 👋
+## Welcome
 
-<!--
-**Koned1/Koned1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Koned** — A passionate advocate for decentralization with an unyielding commitment to distributed systems and high-reliability networks. My journey in the world of validators began with a deep dive into blockchain technology, driven by a desire to make the world safer, more transparent, and resilient. Every node I deploy is not just another point in the network but a contribution to the future of the internet where trust is anchored by mathematics and security by hardware.
 
-Here are some ideas to get you started:
+**Core Competencies:**
+- Reliable setup and maintenance of nodes in high-load networks.
+- Continuous monitoring and performance optimization.
+- Professional work with major blockchain protocols and decentralized networks.
+- Expertise in cryptography, consensus algorithms, and smart contracts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Portfolio Projects:**
+- **Fleek** — 
+
+- **Kuzco** — 
+
+Follow, check out my repositories, and let’s build a decentralized future together!
